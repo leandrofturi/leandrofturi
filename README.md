@@ -8,4 +8,4 @@
 
 📫 Universidade Federal do Espírito Santo, Brazil (or walking around)
 
-![Metrics](https://github.com/leandrofturi/leandrofturi/blob/master/github-metrics.svg)
+![Metrics](/github-metrics.svg)
