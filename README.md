@@ -4,8 +4,8 @@
 
 ### 👋 I am Leandro Furlam
 
-🌱🔭 I’m currently working with artificial intelligence. 😄 Pronouns? writer choice!
+🌱🔭 I’m currently working as Research and Development at [Lume Robotics](https://lumerobotics.ai/). 😄 Pronouns? writer choice!
 
-📫 Universidade Federal do Espírito Santo, Brazil (or walking around)
+📫 Vitória, Espírito Santo, Brazil (or walking around)
 
 ![Metrics](/github-metrics.svg)
